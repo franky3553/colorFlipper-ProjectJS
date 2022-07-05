@@ -2,7 +2,10 @@ add nav bar
 add main
    add text
    add button
-add initial js
+add initial app.js
    add first const
    add btnEvent
    add getRandomNumber function
+
+add initial hex.js
+   add first const
