@@ -5,3 +5,4 @@ add main
 add initial js
    add first const
    add btnEvent
+   add getRandomNumber function
