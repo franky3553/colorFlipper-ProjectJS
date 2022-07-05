@@ -212,6 +212,7 @@ main {
 .color {
   color: var(--clr-primary-5);
 }
+
 .btn-hero {
   font-family: var(--ff-primary);
   text-transform: uppercase;

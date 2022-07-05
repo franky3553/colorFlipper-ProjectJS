@@ -2,3 +2,6 @@ add nav bar
 add main
    add text
    add button
+add initial js
+   add first const
+   add btnEvent
