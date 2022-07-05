@@ -10,3 +10,4 @@ add initial app.js
 add initial hex.js
    add first const
    add btnEvent hexColor Allocator
+   add getRandomNumber function
